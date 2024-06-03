@@ -1,0 +1,11 @@
+com\redesky\skyapi\api\TagAPI.class
+com\redesky\skyapi\group\GroupPrefix.class
+com\redesky\skyapi\group\PlayerInfo.class
+com\redesky\skyapi\commands\CashCommand.class
+com\redesky\skyapi\SkyAPI.class
+com\redesky\skyapi\group\PlayerGroup.class
+com\redesky\skyapi\api\TagAPI$1.class
+com\redesky\skyapi\commands\CoinsCommand.class
+com\redesky\skyapi\group\GroupListener.class
+com\redesky\skyapi\mysql\SkyMySQL.class
+com\redesky\skyapi\commands\GroupCommand.class

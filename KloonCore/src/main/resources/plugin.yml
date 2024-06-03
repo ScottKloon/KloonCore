@@ -1,0 +1,8 @@
+name: KloonCore
+version: '${project.version}'
+main: com.kloon.core.KloonCore
+api-version: '1.8.8'
+commands:
+  cash:
+  coins:
+  group:

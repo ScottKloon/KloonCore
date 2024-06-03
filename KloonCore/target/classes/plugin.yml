@@ -1,0 +1,8 @@
+name: SkyAPI
+version: '1.0-SNAPSHOT'
+main: com.redesky.skyapi.SkyAPI
+api-version: '1.20'
+commands:
+  cash:
+  coins:
+  group:
